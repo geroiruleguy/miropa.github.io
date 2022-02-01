@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "nombre": "Remera Manga Larga Volcom",
+      "precio": 1500,
+      "imagen": "img/remera-volcom.jpeg"
+    },
+    {
+        "id": 2,
+        "nombre": "Remera Manga Larga RVCA",
+        "precio": 1500,
+        "imagen": "img/remera-rcva.jpeg"
+    },
+    {
+        "id": 3,
+        "nombre": "Remera Quiksilver",
+        "precio": 1000,
+        "imagen": "img/remera-quiksilver.jpeg"
+    },
+    {
+        "id": 4,
+        "nombre": "Camisa Pool & Bear",
+        "precio": 2300,
+        "imagen": "img/camisa-negra.jpeg"
+    },
+    {
+        "id": 5,
+        "nombre": "Camisa Zara",
+        "precio": 2000,
+        "imagen": "img/camisa-verde.jpeg"
+    },
+    {
+        "id": 6,
+        "nombre": "Campera de Pana Quiksilver",
+        "precio": 3000,
+        "imagen": "img/campera-pana.jpeg"
+    }
+]
